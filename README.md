@@ -1,3 +1,3 @@
 # app demo
-https://github.com/zheenlu/xhs-app/assets/121406160/9a0c923f-2fb2-4543-8287-a2b62de0df57
+https://github.com/zheenlu/RedBook-app/assets/121406160/7321ea4e-a4d3-4bda-879e-91575b073ef2
 
